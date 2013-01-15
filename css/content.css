@@ -1,0 +1,29 @@
+#PPPInfo {
+    position: fixed;
+    z-index: 10086000000;
+    width: 100%;
+    top: 0;
+    height: 36px;
+    background-color: #333333;
+    line-height: 32px;
+    padding: 0px 10px 0px 10px;
+    text-align: center;
+    font-size: 22px;
+    color: #ffffff;
+}
+
+#PPPInfo #PPPText {
+    margin: 0 auto;
+    width: 900px;
+}
+
+#PPPInfo a {
+    margin-left: 10px;
+    color: yellow;
+}
+
+#PPPInfo #share {
+    float: right;
+    height: 50px;
+    margin-top: 2px
+}
